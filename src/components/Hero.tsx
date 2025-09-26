@@ -13,8 +13,8 @@ const Hero = () => {
       
       <div className="relative z-10 container mx-auto px-4 text-center animate-fade-in-up">
         <h1 className="text-5xl md:text-7xl font-display font-bold mb-6 text-foreground">
-          The
-          <span className="text-primary gradient-primary bg-clip-text text-transparent ml-4">
+          The{" "}
+          <span className="text-primary">
             Parfamcitos
           </span>
         </h1>
